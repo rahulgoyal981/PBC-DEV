@@ -1,0 +1,1 @@
+node tpp.js untreefy "D:\Lecture_1_JS_01_06_2020\raw\d10" "D:\Lecture_1_JS_01_06_2020\raw\xyz"
