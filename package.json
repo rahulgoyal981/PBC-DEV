@@ -1,0 +1,23 @@
+{
+  "name": "pbc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "dirManager": "Lecture_1_JS_01_06_2020\\activity\\organiser.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulgoyal981/pbc-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulgoyal981/pbc-dev/issues"
+  },
+  "homepage": "https://github.com/rahulgoyal981/pbc-dev#readme"
+}
